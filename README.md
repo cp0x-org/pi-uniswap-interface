@@ -1,11 +1,12 @@
 # Permissionless Uniswap Interface by cp0x
 
-An open-source, permissionless interface for Uniswap, based on the official Uniswap repository (tag [v4.101.0](https://github.com/Uniswap/interface/tree/v4.101.0)), designed to be fully permissionless and allow direct, unrestricted interaction with smart contracts.
+An open-source, permissionless interface for the Uniswap protocol, based on the official [Uniswap repository (v4.101.0)](https://github.com/Uniswap/interface/tree/v4.101.0), designed to be fully permissionless and enable direct, unrestricted interaction with smart contracts.
 
 ## Application Links
 - Website: [pi.cp0x.com](https://pi.cp0x.com/)
 - Interface: [uniswap.cp0x.com](https://uniswap.cp0x.com)
 - Twitter: [@cp0xdotcom](https://x.com/cp0xdotcom)
+- Telegram: [@cp0xdotcom](https://t.me/cp0xdotcom)
 
 ## Docs
 
